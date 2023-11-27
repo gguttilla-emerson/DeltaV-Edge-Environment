@@ -53,8 +53,9 @@ Below are some examples of sample queries provided in different languages:
 ### Sample Applications
 The fastest way to start writing applications for Edge is with our Jupyter notebook and React web app samples. These resources cover many common use cases of the DeltaV Edge Environment in simple, extensible plug-and-play solutions.
 
-[Getting Started with Jupyter Notebook]()
-[Getting Started with React]()
+* [Getting Started with Jupyter Notebook]()
+* [Getting Started with React]()
+
 Once you've finished the getting started notebooks, you can then download the linked sample apps and run them locally.
 
 1. [DeltaV Hierarchy Explorer (React app)]()
